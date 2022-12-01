@@ -11,7 +11,7 @@ I am a computer science student at the University of Maryland minoring in physic
 - 🔭 I’m building full stack web application to learn more about cutting edge frameworks and web technologies.
 - ⚡ I like writing custom firmware for Raspberry Pi's and microcontrolers.
 - 🥍 I play lacrosse for the University of Maryland Lacrosse Club.
-- 🤖 In my free time I like to build combat robots.
+- 🤖 In my free time I like to build and fight combat robots.
 
 ---
 
@@ -63,9 +63,16 @@ programs, social networking for cancer survivors in the community.
 ---
 
 ### 🔥 &nbsp; My Stats :
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ehuegler&repo=TerpToilets&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ehuegler&repo=WinMancala&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ehuegler&repo=LacrosseStatistics&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ehuegler&repo=LandGrabUMD&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ehuegler&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehuegler&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ---
 
