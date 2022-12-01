@@ -60,6 +60,8 @@ Tech Lead
 increasing access to services including sustainability consulting, mentoring
 programs, social networking for cancer survivors in the community.
 
+
+<!--
 ---
 
 ### 🔥 &nbsp; My Stats :
@@ -75,7 +77,6 @@ programs, social networking for cancer survivors in the community.
 -->
 
 ---
-
 
 <!--
 **ehuegler/ehuegler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
