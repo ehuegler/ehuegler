@@ -38,18 +38,16 @@ I am a computer science student at the University of Maryland minoring in physic
 
 ### 📄 Experience:
 
-#### Army Research Labs, Nuetral Atom Quantum Sensing Lab (2022)
+#### National Institute of Standards and Technology, Quantum Measurement Division (2023)
+Research Intern
+- Develop automation and optimization routines for Josephson Arbitrary Waveform Synthesizer control.
+- Build API to interface JAWS control software with other labratory systems.
+
+
+#### Army Research Labs, Nuetral Atom Quantum Sensing Lab (2022-2023)
 Research Intern
 - Build custom firmware for RaspberryPi Pico microcontroller to control equipment in experimental aparatus to microsecond level timing requirements.
 - Contribute to the open source experiment control environment LabScript.
-
-
-&nbsp;  
-#### worldwideRiches Web Design and SEO (2019-Present)
-Developer
-- Redesign outdated sites and build responsive web pages from the ground up
-- Implement latest search engine optimization best practices, quantitatively increasing
-web traffic
 
 
 &nbsp;  
@@ -59,6 +57,15 @@ Tech Lead
 - Build websites and full-stack web applications for local non-profit organizations
 increasing access to services including sustainability consulting, mentoring
 programs, social networking for cancer survivors in the community.
+
+
+
+&nbsp;  
+#### worldwideRiches Web Design and SEO (2019-2022)
+Developer
+- Redesign outdated sites and build responsive web pages from the ground up
+- Implement latest search engine optimization best practices, quantitatively increasing
+web traffic
 
 
 <!--
