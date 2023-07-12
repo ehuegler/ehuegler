@@ -31,7 +31,7 @@ I am a computer science student at the University of Maryland minoring in physic
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
 </p>
 
 ---
